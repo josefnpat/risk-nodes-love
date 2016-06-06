@@ -156,7 +156,7 @@ function love.load()
       name = "East Africa",
       links = {
         "egypt",
-        --"middleeast",
+        "middleeast",
         "madagascar",
         "southafrica",
         "congo",
@@ -363,6 +363,7 @@ function love.load()
         "ukraine",
         "afghanistan",
         "india",
+        "eastafrica",
         "egypt",
         "southerneurope",
       },
